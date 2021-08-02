@@ -1,6 +1,7 @@
 [老李出的设计](https://github.com/mikecovlee/)    
 对c-的简单实现：前端弱编译器，后端弱虚拟机    
-有现成的测试代码在 `test_code` 里，汇编语法没写规范，自己看着办 = =    
+有现成的测试代码在项目文件夹 `test_code` 里，汇编语法没写规范，自己看着办 = =    
+可以使用 `run.bat` 一次性运行测试（compiler 不是我写的，找[金金](https://github.com/jin1xiao3long2)要，没有的话可以把批处理改改，删了 compiler 的执行）
 下面是字节码规范：    
 
 # Yet other compiler and vm prototype
