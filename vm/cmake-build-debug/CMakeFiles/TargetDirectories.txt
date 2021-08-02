@@ -1,0 +1,3 @@
+D:/mywork/testvm/vm/cmake-build-debug/CMakeFiles/csvm.dir
+D:/mywork/testvm/vm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mywork/testvm/vm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
