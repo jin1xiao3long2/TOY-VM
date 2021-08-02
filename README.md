@@ -1,7 +1,8 @@
-[老李出的设计](https://github.com/mikecovlee/)
-对c-的简单实现：前端弱编译器，后端弱虚拟机
-有现成的测试代码在 `test_code` 里，汇编语法没写规范，自己看着办 = =
-下面是字节码规范：
+[老李出的设计](https://github.com/mikecovlee/)    
+对c-的简单实现：前端弱编译器，后端弱虚拟机    
+有现成的测试代码在 `test_code` 里，汇编语法没写规范，自己看着办 = =    
+下面是字节码规范：    
+
 # Yet other compiler and vm prototype
 ## File Format
 文件头: 0xDEADFACE + 32位版本号(Master + Major + Minor + Build)
